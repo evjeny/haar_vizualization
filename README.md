@@ -16,3 +16,5 @@ However, there is a list of libraries' versions:
 Install all dependencies and run `python vizualize.py --cascade haarcascade_frontalface_default.xml --image photo.jpg`.
 
 For detailed script's parameters run `python vizualize.py --help`.
+
+![Bamblebee Killingtouch](output.gif)
